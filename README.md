@@ -35,6 +35,8 @@ Always learning, always improving 🔥
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAgwa10&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
 
+<p align="center"><i>These stats update automatically based on my GitHub activity 📈</i></p>
+
 ---
 
 ### 🌐 Connect with Me
@@ -50,5 +52,5 @@ Always learning, always improving 🔥
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2b/11/55/2b1155a8e7ad7e92b8f6b49c85d6ff1b.gif" width="350" alt="coding anime" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
 </p>
